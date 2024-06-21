@@ -12,7 +12,7 @@ public class DemoController {
 	public String f1()
 	{
 		
-		return "Hello World Cicd PipeLine";
+		return "Hello World Cicd PipeLine Modified";
 	}
 
 }
